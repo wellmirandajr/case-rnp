@@ -46,6 +46,3 @@ Este repositório contém um pipeline de ingestão de dados para o banco de dado
 
 Para executar este pipeline, assegure-se de ter acesso a um ambiente Databricks e as permissões necessárias para se conectar ao banco de dados PostgreSQL. Clone este repositório e siga as instruções nos notebooks para executar o pipeline.
 
-## Licença
-
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
